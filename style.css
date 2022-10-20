@@ -1,5 +1,7 @@
 .div1{
     background-color: rgb(138, 8, 8);
+    height:fit-content;
+    width:fit-content;
 }
 .text1{
     text-align: center;
@@ -8,10 +10,10 @@
 }
 .img1{
     width: 75%;
-    margin-inline: 150px;
     margin-top: 25px;
     position: absolute;
     z-index: 2;
+    margin-left: 135px;
 }
 .img2{
     width: 100%;
@@ -23,9 +25,10 @@
 li{
     color: white;
     text-align: left;
-    width: 50%;
+    width: 40%;
     margin: auto;
     padding: 15px;
+    font-size: larger;
 }
 h3, h1, p{
     text-align: center;
