@@ -1,0 +1,45 @@
+.div1{
+    background-color: rgb(138, 8, 8);
+}
+.text1{
+    text-align: center;
+    color: white;
+    font-size: 18px;
+}
+.img1{
+    width: 75%;
+    margin-inline: 150px;
+    margin-top: 25px;
+    position: absolute;
+    z-index: 2;
+}
+.img2{
+    width: 100%;
+    margin-left: 0;
+    margin-top: 0;
+    position: relative;
+    z-index: 1;
+}
+li{
+    color: white;
+    text-align: left;
+    width: 50%;
+    margin: auto;
+    padding: 15px;
+}
+h3, h1, p{
+    text-align: center;
+    color: white;
+}
+h2{
+    color: white;
+    text-align: left;
+    width: 50%;
+    margin: auto;
+    font-size: 20px;
+}
+h4{
+    color: white;
+    font-size:x-large;
+    text-align:center;
+}
