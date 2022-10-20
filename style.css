@@ -1,19 +1,24 @@
 .div1{
     background-color: rgb(138, 8, 8);
-    height:fit-content;
-    width:fit-content;
+    height:100%;
+    width:100%;
+}
+div2{
+    width: 50;
+    margin-inline: 50%;
 }
 .text1{
     text-align: center;
     color: white;
     font-size: 18px;
+    
 }
 .img1{
     width: 75%;
-    margin-top: 25px;
+    margin-top: 15px;
     position: absolute;
     z-index: 2;
-    margin-left: 135px;
+    margin-inline: 135px;
 }
 .img2{
     width: 100%;
@@ -24,8 +29,8 @@
 }
 li{
     color: white;
-    text-align: left;
-    width: 40%;
+    text-align:justify;
+    width: 45%;
     margin: auto;
     padding: 15px;
     font-size: larger;
