@@ -1,6 +1,10 @@
+body{
+    background-color: black;
+    font-family: 'Poppins', sans-serif;
+}
 main{
     background-color: rgb(138, 8, 8);
-    height:370vh;
+    height:500vh;
     width:100%;
 }
 .first_header{
@@ -24,8 +28,8 @@ main{
     height: 100vh;
 }
 img{
-    width: 80%;
-    margin-left: 150px;
+    width: 65%;
+    margin-left: 200px;
     margin-top: 15px;
 }
 figcaption{
@@ -42,7 +46,7 @@ h3{
     text-align: center;
 }
 li{
-    font-size: 20px;
+    font-size: 18px;
     color: white;
     text-align: justify;
     padding: 10px;
